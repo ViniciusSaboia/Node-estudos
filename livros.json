@@ -5,7 +5,7 @@
     },
     {
         "id": "2",
-        "nome": "Livro muito legal"
+        "nome": "Livro mucho legal"
     },
     {
         "id": "3",
@@ -22,5 +22,9 @@
     {
         "id": "6",
         "nome": "Livro BMO"
+    },
+    {
+        "id": "7",
+        "nome": "Livro BO"
     }
 ]
